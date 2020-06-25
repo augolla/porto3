@@ -1,0 +1,31 @@
+.About{
+  background: #0A192F;
+  color: white;
+  font-family: 'Cousine';
+}
+.Title{
+  text-align: center;
+  font-family: 'Cousine';
+}
+.About-me{
+  margin-bottom: 60px;
+}
+.What-I-do{
+  margin-bottom: 80px;
+}
+p{
+  font-size: 12px;
+}
+h5,p,h6{
+  color:#8892B0;
+}
+h3{
+  font-size: 20px;
+  font-family: sans-serif;
+}
+h5{
+  font-size: 15px;
+}
+.tools h5{
+  color:#bcbccf;
+}

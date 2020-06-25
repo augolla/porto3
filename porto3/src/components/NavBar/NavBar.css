@@ -1,0 +1,58 @@
+.NavBar{
+  background: #0A192F;
+  background-color: #0A192F;
+  color: #CCD6F6;
+  font-size: 15px;
+  max-height: 50px;
+  padding-top: 20px;
+}
+a,Link,.nav-link{
+  margin-right: 2.5rem;
+  color: #CCD6F6;
+  font-size: 10px;
+  font: 'Cousine';
+  transition: .3s ease;
+  letter-spacing: 1.3px;
+  cursor: pointer;
+}
+a:hover{
+  text-decoration: none;
+  color: #64FFDA ;
+}
+Link:hover{
+  text-decoration: none;
+  color: #64FFDA ;
+}
+.nav-link:hover{
+  text-decoration: none;
+  color: #64FFDA !important;
+}
+/* .navbar-nav .active{
+  color: #64FFDA;
+} */
+.nav-item>.active{
+  
+}
+.navbar-toggler{
+  color: #64FFDA;
+  cursor: pointer;
+  transform: rotate(270deg);
+}
+.icon-bar{
+  height:10px;
+  margin-bottom: 5px;
+  color:#64FFDA;
+  width:20px;
+}
+.icon-bar-1{
+  margin-right: 2.5px;
+}
+.icon-bar-3{
+  margin-left: 2.5px;
+}
+.navbar-toggler:hover>.icon-bar-1{
+  margin-right: 6.5px;
+}
+.navbar-toggler:hover>.icon-bar-3{
+  margin-left: 6.5px;
+}
